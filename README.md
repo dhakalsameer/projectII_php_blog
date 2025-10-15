@@ -1,4 +1,4 @@
-@"
+
 # 📰 PHP Blog Project
 
 A simple, dynamic **Blog Management System** built using **PHP**, **MySQL**, and **Bootstrap**.  
@@ -21,4 +21,4 @@ This project demonstrates CRUD operations, authentication, and responsive design
 1. **Clone the repository**
    ```bash
    git clone https://github.com/dhakalsameer/projectII_php_blog.git
-   cd project_php_blog
+   cd projectII_php_blog
